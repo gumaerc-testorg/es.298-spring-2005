@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: Example of student work from the course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-298-art-of-color-spring-2005/0d5917bd971fd942b95a3f315306a5df_image5.jpg
+file: /media/courses/es-298-art-of-color-spring-2005/0d5917bd971fd942b95a3f315306a5df_image5.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: image5.jpg
 uid: 0d5917bd-971f-d942-b95a-3f315306a5df

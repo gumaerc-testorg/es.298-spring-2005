@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: This resource provides the supporting image for the project color wheel.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-298-art-of-color-spring-2005/5f5b47dbb02f8a82316bad0e11dc1814_color_wheel_ex.jpg
+file: /media/courses/es-298-art-of-color-spring-2005/5f5b47dbb02f8a82316bad0e11dc1814_color_wheel_ex.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: color_wheel_ex.jpg
 uid: 5f5b47db-b02f-8a82-316b-ad0e11dc1814
