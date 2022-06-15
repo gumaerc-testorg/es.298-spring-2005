@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about the projects to be done for the
+  course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -77,7 +79,7 @@ _Color Wheel_
 Make a color wheel using the fully saturated colors in your color-aid pack. Cut out the sizes using the color wheel template handed out in class. The wheel should be mounted on 11"x12" white coverstock paper.
 {{< tdclose >}}
 {{< tdopen >}}
-Color Wheel ([JPG]({{< baseurl >}}/resources/color_wheel_ex))
+Color Wheel ({{% resource_link 5f5b47db-b02f-8a82-316b-ad0e11dc1814 "JPG" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +97,7 @@ Letters: Color Transparency and Unified Space
 Use 3 letters, each of a different primary color, to organize a figure-ground composition on 12" x 12" coverstock paper. The letters should overlap each other. One design goal is to activate the entire space, both figure and ground. A second design goal is to construct a contained space and a containing space. Concentrate on creating shape by applying shape. Pay attention to the scale. The third design goal is to use the overlapping areas of the letters to create the illusion of additive or subtractive colors by replacing the letter color with the appropriate color formed by the combining the colors of the overlapping areas. Whenever there is an overlapping space select a secondary color which corresponds to the correct mix of the primary colors. Carefully choose the value of the secondary color to give a sense of a three dimensional weave of the two letters.
 {{< tdclose >}}
 {{< tdopen >}}
-Letters: Color Transparency and Unified Space ([JPG]({{< baseurl >}}/resources/unified_space))
+Letters: Color Transparency and Unified Space ({{% resource_link 9ca2cb31-4b1d-08fa-9834-7467ec8d84e0 "JPG" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +124,7 @@ Make a series of color balances on 12" x 12" coverstock paper using:
 All gray and color selections are 4-1/2" high and the widths will vary according to the need to balance the color values. Each project should involve different choices of grays and colors. Do not juxtapose monochromatic colors.
 {{< tdclose >}}
 {{< tdopen >}}
-Color Balance ([JPG]({{< baseurl >}}/resources/color_balance))
+Color Balance ({{% resource_link f9e996c8-7610-18d9-7227-aeaa81e583e4 "JPG" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +166,7 @@ Color Impression
 Choose one season; spring, summer, fall or winter. Select one hundred different colors which give the impression of that season. Cut from each color a 1 1/2 " x 1 1/2 " square. You may need more colors later on so if you selected 120 different colors you will find it easier to assemble the project.
 {{< tdclose >}}
 {{< tdopen >}}
-Color as Impression ([JPG]({{< baseurl >}}/resources/color_as_imp))
+Color as Impression ({{% resource_link 5349838a-f02d-bcb8-5c53-5f301980edac "JPG" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -182,7 +184,7 @@ Color Balance and Tension
 Construct two 8" x 8" squares which consists of ten smaller squares: 3 squares are 4" x 4"; 3 squares are 2" x 2"; and 4 squares are 1" x 1". The first square is constructed from 10 distinct gray values. Each square should be distinct yet all the squares must form a balanced unified space. The second square is constructed from 10 distinct color values Mount the project on 11"x12" white coverstock.
 {{< tdclose >}}
 {{< tdopen >}}
-Color Balance and Tension ([JPG]({{< baseurl >}}/resources/bal_and_tension))
+Color Balance and Tension ({{% resource_link 3080d2aa-3afc-e1b0-1525-fcb70522a33a "JPG" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -200,9 +202,9 @@ Warm and Cold Colors
 Choose a 100 different warm colors, and cold colors, and colors in between to render the passage from warm to cold or vice versa. Then juxtapose the 100 different colors in a square. The emotional content of the warm-cold relation is explored.
 {{< tdclose >}}
 {{< tdopen >}}
-Warm and Cold Colors ([JPG]({{< baseurl >}}/resources/warmcold_colors))  
+Warm and Cold Colors ({{% resource_link 3febe3b4-cd08-e7ff-b39b-f4c15476168f "JPG" %}})  
   
-A Color Square ([JPG]({{< baseurl >}}/resources/image2)) (Courtesy of Thuy-Tien Le. Used with permission.)
+A Color Square ({{% resource_link 5c47a6b9-6e28-b2a7-7b47-8ec510e6511f "JPG" %}}) (Courtesy of Thuy-Tien Le. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,13 +249,13 @@ Watercolor Paintings
 Cut matteboard and mount paintings.
 {{< tdclose >}}
 {{< tdopen >}}
-A Watercolor Painting by Dugan Hayes([JPG]({{< baseurl >}}/resources/image1)) (Courtesy of Dugan Hayes. Used with permission.)  
+A Watercolor Painting by Dugan Hayes({{% resource_link fb964104-940f-cf3e-2c76-730e98004a31 "JPG" %}}) (Courtesy of Dugan Hayes. Used with permission.)  
   
-A Watercolor Painting by Jess Sundberg ([JPG]({{< baseurl >}}/resources/image5)) (Courtesy of Jess Sundberg. Used with permission.)  
+A Watercolor Painting by Jess Sundberg ({{% resource_link 0d5917bd-971f-d942-b95a-3f315306a5df "JPG" %}}) (Courtesy of Jess Sundberg. Used with permission.)  
   
-A Watercolor Painting by George Lin ([JPG]({{< baseurl >}}/resources/image6)) (Courtesy of George Lin. Used with permission.)  
+A Watercolor Painting by George Lin ({{% resource_link 91903a0f-8374-4813-1b75-38279ba1b941 "JPG" %}}) (Courtesy of George Lin. Used with permission.)  
   
-A Watercolor Painting by Prof. Peter Dourmashkin ([JPG]({{< baseurl >}}/resources/image9))
+A Watercolor Painting by Prof. Peter Dourmashkin ({{% resource_link 78a29646-54b6-0e34-f849-fde29a0a92d3 "JPG" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
