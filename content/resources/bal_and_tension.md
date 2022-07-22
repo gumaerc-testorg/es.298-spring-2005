@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: bal_and_tension.jpg
 uid: 3080d2aa-3afc-e1b0-1525-fcb70522a33a
 ---
 This resource is a supporting image for the project searching for tension: color squares.
-

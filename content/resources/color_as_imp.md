@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: color_as_imp.jpg
 uid: 5349838a-f02d-bcb8-5c53-5f301980edac
 ---
 This resource provides the supporting image for the project Color Impression.
-

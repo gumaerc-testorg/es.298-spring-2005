@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: color_balance.jpg
 uid: f9e996c8-7610-18d9-7227-aeaa81e583e4
 ---
 This resource is the supporting image for the project color balance.
-

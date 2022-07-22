@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: warmcold_colors.jpg
 uid: 3febe3b4-cd08-e7ff-b39b-f4c15476168f
 ---
 This resource provides the supporting image for the project on warm and cold colors.
-

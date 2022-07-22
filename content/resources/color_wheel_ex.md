@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: color_wheel_ex.jpg
 uid: 5f5b47db-b02f-8a82-316b-ad0e11dc1814
 ---
 This resource provides the supporting image for the project color wheel.
-

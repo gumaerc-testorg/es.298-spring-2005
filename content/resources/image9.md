@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: image9.jpg
 uid: 78a29646-54b6-0e34-f849-fde29a0a92d3
 ---
 Example of work done by the course instructor.
-

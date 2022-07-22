@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: unified_space.jpg
 uid: 9ca2cb31-4b1d-08fa-9834-7467ec8d84e0
 ---
 This resource provides the supporting image for the project letters: color transparency and unified space.
-
