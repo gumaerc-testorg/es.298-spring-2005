@@ -2,6 +2,7 @@
 content_type: resource
 description: Example of student work from the course.
 file: /courses/es-298-art-of-color-spring-2005/fb964104940fcf3e2c76730e98004a31_image1.jpg
+file_size: 163133
 file_type: image/jpeg
 image_metadata:
   caption: ''

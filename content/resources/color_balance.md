@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is the supporting image for the project color balance.
 file: /courses/es-298-art-of-color-spring-2005/f9e996c8761018d97227aeaa81e583e4_color_balance.jpg
+file_size: 9996
 file_type: image/jpeg
 image_metadata:
   caption: ''
