@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource is a supporting image for the project searching for tension:
   color squares.'
-file: /courses/es-298-art-of-color-spring-2005/3080d2aa3afce1b01525fcb70522a33a_bal_and_tension.jpg
+file: /ol-ocw-studio-app/courses/es-298-art-of-color-spring-2005/3080d2aa3afce1b01525fcb70522a33a_bal_and_tension.jpg
 file_size: 4771
 file_type: image/jpeg
 image_metadata:

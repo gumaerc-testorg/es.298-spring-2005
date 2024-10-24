@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides the supporting image for the project on warm and
   cold colors.
-file: /courses/es-298-art-of-color-spring-2005/3febe3b4cd08e7ffb39bf4c15476168f_warmcold_colors.jpg
+file: /ol-ocw-studio-app/courses/es-298-art-of-color-spring-2005/3febe3b4cd08e7ffb39bf4c15476168f_warmcold_colors.jpg
 file_size: 55234
 file_type: image/jpeg
 image_metadata:

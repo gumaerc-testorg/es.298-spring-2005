@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides the supporting image for the project color wheel.
-file: /courses/es-298-art-of-color-spring-2005/5f5b47dbb02f8a82316bad0e11dc1814_color_wheel_ex.jpg
+file: /ol-ocw-studio-app/courses/es-298-art-of-color-spring-2005/5f5b47dbb02f8a82316bad0e11dc1814_color_wheel_ex.jpg
 file_size: 17006
 file_type: image/jpeg
 image_metadata:

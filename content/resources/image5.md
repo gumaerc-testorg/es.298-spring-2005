@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of student work from the course.
-file: /courses/es-298-art-of-color-spring-2005/0d5917bd971fd942b95a3f315306a5df_image5.jpg
+file: /ol-ocw-studio-app/courses/es-298-art-of-color-spring-2005/0d5917bd971fd942b95a3f315306a5df_image5.jpg
 file_size: 141971
 file_type: image/jpeg
 image_metadata:
