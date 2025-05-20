@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of student work from the course. Courtesy of Thuy-Tien Le. Used
   with permission.
-file: /ol-ocw-studio-app/courses/es-298-art-of-color-spring-2005/5c47a6b96e28b2a77b478ec510e6511f_image2.jpg
+file: /courses/es-298-art-of-color-spring-2005/5c47a6b96e28b2a77b478ec510e6511f_image2.jpg
 file_size: 92185
 file_type: image/jpeg
 image_metadata:
