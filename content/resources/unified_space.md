@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource provides the supporting image for the project letters:
   color transparency and unified space.'
-file: /courses/es-298-art-of-color-spring-2005/9ca2cb314b1d08fa98347467ec8d84e0_unified_space.jpg
+file: /ol-ocw-studio-app/courses/es-298-art-of-color-spring-2005/9ca2cb314b1d08fa98347467ec8d84e0_unified_space.jpg
 file_size: 23043
 file_type: image/jpeg
 image_metadata:
